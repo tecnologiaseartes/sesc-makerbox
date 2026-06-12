@@ -1,6 +1,6 @@
 # sesc-makerbox
 
-The script depends on <py5coding.org>
+The script depends on <https://py5coding.org>
 It generates an SVG file.
 
 <img width="400" height="400" alt="caixa_flex-v1" src="https://github.com/user-attachments/assets/53bb0e39-7640-4675-8b9f-168454123520" />
