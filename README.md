@@ -1,7 +1,8 @@
 # sesc-makerbox
 
 The script depends on <https://py5coding.org>
-It generates an SVG file.
+
+- It will generates an SVG file like the one below. Cut it twice (top + bottom, two laterl halves.)
 
 <img width="400" height="400" alt="caixa_flex-v1" src="https://github.com/user-attachments/assets/53bb0e39-7640-4675-8b9f-168454123520" />
 <?xml version="1.0"?>
